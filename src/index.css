@@ -153,7 +153,7 @@ Menu
 .underline {
   width: 5rem;
   height: 0.25rem;
-  background: var(--clr-gold);
+  background: rgb(218, 255, 10);
   margin-left: auto;
   margin-right: auto;
 }
@@ -165,12 +165,12 @@ Menu
 .filter-btn {
   background: transparent;
   border-color: transparent;
-  font-size: 1rem;
+  font-size: 30px;
   text-transform: capitalize;
   margin: 0 0.5rem;
   letter-spacing: 1px;
   padding: 0.375rem 0.75rem;
-  color: var(--clr-gold);
+  color: rgb(22, 95, 7);
   cursor: pointer;
   transition: var(--transition);
   border-radius: var(--radius);
@@ -196,8 +196,8 @@ Menu
   object-fit: cover;
   height: 200px;
   width: 100%;
-  border: 0.25rem solid var(--clr-gold);
-  border-radius: var(--radius);
+  border: 0.25rem solid yellow;
+  border-radius: 40px;
   display: block;
 }
 .item-info header {
