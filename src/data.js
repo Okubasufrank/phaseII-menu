@@ -9,10 +9,10 @@ const menu = [
   },
   {
     id: 2,
-    title: 'diner double',
+    title: 'Samaki-Ugali',
     category: 'lunch',
     price: 13.99,
-    img: './images/item-2.jpeg',
+    img: './images/Samaki.jpeg',
     desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
   },
   {
@@ -33,10 +33,10 @@ const menu = [
   },
   {
     id: 5,
-    title: 'egg attack',
+    title: 'Matoke-Nyama',
     category: 'lunch',
     price: 22.99,
-    img: './images/item-5.jpeg',
+    img: './images/Matokenyama.jpeg',
     desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
   },
   {
@@ -49,10 +49,10 @@ const menu = [
   },
   {
     id: 7,
-    title: 'bacon overflow',
+    title: 'Samosa-Chai',
     category: 'breakfast',
     price: 8.99,
-    img: './images/item-7.jpeg',
+    img: './images/Samosa.jpeg',
     desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
   },
   {
