@@ -21,13 +21,15 @@ function App() {
     <main>
       <section className="menu section">
         <div className="title">
-          <h2>our menu</h2>
+          <h2>Frankies Menu</h2>
           <div className="underline"></div>
         </div>
-        
-        // Adding the menu and category components
-        <Categories categories={categories} filterItems={filterItems} />
-        <Menu items={menuItems} />
+
+{        // Adding the menu and category components
+}        <Categories categories={categories} filterItems={filterItems} />
+
+{        //Passing the data to the Menu by setting up a prop
+}        <Menu items={menuItems} /> 
       </section>
     </main>
   );
