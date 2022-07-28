@@ -7,7 +7,7 @@ const Menu = ({ items }) => {
 {    // iterating over the items my items
 }      {items.map((menuItem) => {
 
-  //
+  //doing destructuring of the items
         const { id, title, img, desc, price } = menuItem;
         return (
           <article key={id} className='menu-item'>
