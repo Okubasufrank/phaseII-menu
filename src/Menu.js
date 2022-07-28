@@ -10,6 +10,7 @@ const Menu = ({ items }) => {
   //doing destructuring of the items
         const { id, title, img, desc, price } = menuItem;
         return (
+          //adding the images and title and information of the items
           <article key={id} className='menu-item'>
             <img src={img} alt={title} className='photo' />
             <div className='item-info'>
