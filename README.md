@@ -2,7 +2,7 @@
 # Frankies-Menu
 ## By Okubasu Frankline Aswani
 ## Screenshot
- ![image](./images/ui.png)
+ ![image](./public/images/ui.png)
  ## Table of Content
  - [Description](#description)
  - [Frankies Menu](#Frankies-menu)
