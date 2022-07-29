@@ -177,7 +177,7 @@ Menu
   border-radius: var(--radius);
 }
 .filter-btn:hover {
-  background: var(--clr-gold);
+  background:yellow;
   color: var(--clr-white);
 }
 .section-center {
