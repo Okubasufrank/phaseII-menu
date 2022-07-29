@@ -19,6 +19,7 @@ const Menu = ({ items }) => {
                 <h4 className='price'>Ksh/={price}</h4>
               </header>
               <p className='item-text'>{desc}</p>
+              <i class="fa-duotone fa-heart"></i>
             </div>
           </article>
         );

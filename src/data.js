@@ -5,7 +5,7 @@ const menu = [
     category: 'breakfast',
     price: 800,
     img: './images/item-1.jpg',
-    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+    desc: `Often cooked or served with added flavourings such as sugar, honey, fruit or syrup to make a sweet cereal, `,
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ const menu = [
     category: 'lunch',
     price: 2000,
     img: './images/Samaki.jpeg',
-    desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
+    desc: `For many Kenyans, Samaki-ugali along with a small amount of cooked vegetables or saucy stew is a normal meal`,
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ const menu = [
     category: 'shakes',
     price: 1000,
     img: './images/Mixer.jpeg',
-    desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
+    desc: `Give your Mixer-Special an extra boost with the simplest ingredients.`,
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ const menu = [
     category: 'breakfast',
     price: 500,
     img: './images/Chaitangawizi.jpeg',
-    desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
+    desc: ` mixed with plenty of whole fat milk, and sweetened up with a few heaping tablespoons of sugar. `,
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ const menu = [
     category: 'lunch',
     price: 1500,
     img: './images/Matokenyama.jpeg',
-    desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
+    desc: `I was in the mood to eat a popular Tanzanian food known as ndizi na nyama, or plantain bananas mixed with meat`,
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ const menu = [
     category: 'shakes',
     price: 8000,
     img: './images/Avacado-Shake.jpeg',
-    desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
+    desc: ` Give your Avacado-Shake an extra boost with the simplest ingredients.`,
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ const menu = [
     category: 'breakfast',
     price: 1000,
     img: './images/Samosa.jpeg',
-    desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
+    desc: `Samosas are small triangular pockets of spiced meat or vegetables put in a pastry wrapper and deep fried to a golden brown for ultimate enjoyment.`,
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ const menu = [
     category: 'lunch',
     price: 1200,
     img: './images/Chapati.jpeg',
-    desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
+    desc: `Chapatis go well with fried cabbage, beans, or even just rolled up with a cup of tea!`,
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ const menu = [
     category: 'shakes',
     price: 1500,
     img: './images/Berrys.jpeg',
-    desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
+    desc: ` Give your Berry smoothie an extra boost with the simplest ingredients.`,
   },
 ];
 export default menu;
