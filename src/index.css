@@ -178,7 +178,7 @@ Menu
 }
 .filter-btn:hover {
   background:yellow;
-  color: var(--clr-white);
+  color: black;
 }
 .section-center {
   width: 90vw;
